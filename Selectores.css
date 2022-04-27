@@ -1,0 +1,54 @@
+/*Selector Universal*/
+/** {
+    color: red;
+}*/
+
+
+/*Selector De Tipo*/
+/*button {
+    color: blue;
+}*/
+
+/*button {
+    color:green;
+}
+
+button {
+    color:blue;
+}
+
+button {
+    color:red;
+}*/
+
+/*Selector De Clase*/
+/*.clase-h1 {
+    color: green;
+}*/
+
+/*Selector De ID*/
+/*#id-h2 {
+    color: red;
+}*/
+
+/*Selector Por Atributo*/
+/*[clasecss="abc123"] {
+    color: blue;
+}*/
+
+/*Selector Descendiente*/
+/*h2 b {
+    color: blue;
+}
+h2 p {
+    color: green;
+}*/
+
+/*.clase-h2 p {
+    color: red;
+}*/
+
+/*Selector De Pseudo-Clase*/
+/*button:hover {
+    color: blue;
+}*/

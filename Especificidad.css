@@ -1,0 +1,96 @@
+/*5to lugar importante (Menos importante) EN CASCADA*/
+/*h1 {
+    color:red;
+}
+
+h1 {
+    color:green;
+}
+
+h1 {
+    color:blue;
+}*/
+
+
+
+/*4to lugar importante EN CASCADA*/
+/*.clase-h1 {
+    color:red;
+}
+
+.clase-h1 {
+    color:green;
+}
+
+.clase-h1 {
+    color:blue;
+}*/
+
+/*4to lugar importante POR ESPECIFICIDAD*/
+/*1 {
+    color:blue;
+}
+
+.clase-h1 {
+    color:red;
+}
+
+h1 {
+    color:green;
+}*/
+
+
+
+/*3ro lugar importante EN CASCADA*/
+/*#id-h2 {
+    color: red;
+}
+
+#id-h2 {
+    color: green;
+}
+
+#id-h2 {
+    color: blue;
+}*/
+
+/*3ro lugar importante POR ESPECIFICIDAD*/
+/*.clase-h2 {
+    color:red;
+}
+
+#id-h2 {
+    color: blue;
+}
+
+h2 {
+    color:black;
+}*/
+
+
+
+/*#id-h2{
+    color:blue
+}
+
+.clase-h2{
+    color:green
+}*/
+/*2do lugar importante ESTILO EN LINEA EN EL HTML/
+<h2 style="color:orange">Titulo 2</h2>
+
+
+/*1ro lugar importante (Mas importante) POR ESPECIFICIDAD*/
+.clase-h1 {
+    color:blue;
+}
+
+h1 {
+    color:red !important;
+}
+
+.clase-h1 {
+    color:green;
+}
+
+
